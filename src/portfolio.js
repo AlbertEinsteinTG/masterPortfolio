@@ -115,7 +115,7 @@ const skills = {
           style: {
             color: "#47A248",
           },
-      ],
+      ]
     },
   ],
 };
